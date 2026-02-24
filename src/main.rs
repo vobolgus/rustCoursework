@@ -29,6 +29,8 @@ fn find_and_print(file_path: String, target: &str) {
     }
 }
 
+// new line for init commit
+
 fn main() {
     let args: Vec<String> = env::args().collect();
 
